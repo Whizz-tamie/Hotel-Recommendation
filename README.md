@@ -5,8 +5,6 @@ This project encompasses a web scrapper (crawl hotel data),  a recommendation en
 
 NB: The hoteldata folder contains the scrapped hotel data files, hotel data visualization notebook, and a spiders folder which contains hotelscrapper.py
 
-# How to run the streamlit app
-````
-pip install --upgrade streamlit
+# Link to the streamlit app
 
-streamlit run https://raw.githubusercontent.com/Whizz-tamie/HotelRecommendation/main/streamlit_app.py
+https://share.streamlit.io/whizz-tamie/hotel-recommendation/main
