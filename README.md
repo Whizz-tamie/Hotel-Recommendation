@@ -1,4 +1,4 @@
-# HotelRecommendation
+# Hotel Recommendation
 Hotel Recommendation: A knowledge-based recommender system
 
 This project encompasses a web scrapper (crawl hotel data),  a recommendation engine (generate recommendation), and Streamlit app (user interface) for hotel recommendation.
