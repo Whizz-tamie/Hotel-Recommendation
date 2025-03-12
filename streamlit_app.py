@@ -10,7 +10,7 @@ from spacy.tokens import Token
 import time
 
 #Load hotel data
-@st.cache
+@st.cache_data
 def load_data():
     df = pd.read_csv('hoteldata/hotel_summary.csv')
     return df
